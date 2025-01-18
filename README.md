@@ -44,3 +44,4 @@ An interactive and responsive password strength indicator that visually guides u
 ## Demo
 
 
+![Image](https://github.com/user-attachments/assets/a5cc407a-0d7c-4135-a2fe-092dd50c4bda)
