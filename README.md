@@ -41,17 +41,6 @@ An interactive and responsive password strength indicator that visually guides u
 
 ---
 
-## Screenshots
-### **Password Strength Indicator:**
-#### Weak Password:
-![Weak Password](screenshot-weak.png)
-
-#### Medium Password:
-![Medium Password](screenshot-medium.png)
-
-#### Strong Password:
-![Strong Password](screenshot-strong.png)
-
----
-
 ## Demo
+
+
