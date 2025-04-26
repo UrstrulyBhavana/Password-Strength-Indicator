@@ -1,5 +1,13 @@
 # 🔒 Password Strength Indicator
 
+---
+
+## Demo.gif
+
+![Image](https://github.com/user-attachments/assets/a5cc407a-0d7c-4135-a2fe-092dd50c4bda)
+
+---
+
 An interactive and responsive password strength indicator that visually guides users to create stronger passwords. This project evaluates password strength based on length and provides real-time feedback with color-coded indicators.
 
 ---
@@ -41,7 +49,24 @@ An interactive and responsive password strength indicator that visually guides u
 
 ---
 
-## Demo
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
+
+GitHub | urstrulybhavana1432@gmail.com
+
+---
+
+📬 **Contact**
+
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
 
 
-![Image](https://github.com/user-attachments/assets/a5cc407a-0d7c-4135-a2fe-092dd50c4bda)
+---
+
+📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
